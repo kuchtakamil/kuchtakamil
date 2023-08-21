@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kuchtakamil, Software Developer in a corpo.
 - 👀 I’m interested in ... too many things
-- 🌱 I’m currently learning Scala, Python, Machine Learnig.
+- 🌱 I’m currently learning Scala.
 - 💞️ I’m looking to collaborate on a astronomy/cosmology project.
 - 📫 How to reach me kuchtakamil@gmail.com
 
