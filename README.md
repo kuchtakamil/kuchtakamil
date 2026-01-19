@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kuchtakamil, Software Developer in a corpo.
 - 👀 I’m interested in ... too many things
-- 🌱 I’m currently learning Scala.
-- 💞️ I’m looking to collaborate on a astronomy/cosmology project.
-- 📫 How to reach me kuchtakamil@gmail.com
+- 🌱 I’m currently exploring the world of artificial intelligence.
+- 💞️ I’m interested in contributing to an AI project.
+- 📫 How to reach me me@kamilkuchta.pl
 
 <!---
 kuchtakamil/kuchtakamil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
